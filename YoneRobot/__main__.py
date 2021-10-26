@@ -91,13 +91,13 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", url="t.me/crepan"),
+        InlineKeyboardButton(text="owner", url="t.me/crepan"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/EmixinaSupport"
         ),
     ],
     [
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="❔ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
     
 ]

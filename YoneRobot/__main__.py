@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴇʏ, ɪ ᴀᴍ Eᴍɪxɪɴᴀ 👰
+Hᴇʏ, ɪ ᴀᴍ [Eᴍɪxɪɴᴀ 👰](https://telegra.ph/file/a2640c723c322d7c93342.jpg)
 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ sᴜᴘᴇʀғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ : [𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻](https://telegra.ph/file/a2640c723c322d7c93342.jpg)..!
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ : [ᴄʀᴇᴀᴛᴏʀ ᴘᴀᴠᴀɴ](https://t.me/crepan)..!
 """
 
 buttons = [

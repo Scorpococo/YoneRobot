@@ -74,19 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴇʏ 🙋‍♀️, ɪ ᴀᴍ Eᴍɪxɪɴᴀ
+Hᴇʏ, ɪ ᴀᴍ Eᴍɪxɪɴᴀ 👰
 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ sᴜᴘᴇʀғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ [ᴄʀᴇᴀᴛᴏʀ ᴘᴀᴠᴀɴ](https//t.me/crepan) ..!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Yone_Robot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ Eᴍɪxɪɴᴀ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Yone_Robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+        ),
+    ],
+    [
+        InlineKeyboardButton(text="fuck", callback_data="yone_"),
+        InlineKeyboardButton(
+            text="dick", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
@@ -96,7 +102,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` yone 
+`ʜɪ.. ɪ'ᴍ` Eᴍɪxɪɴᴀ. 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

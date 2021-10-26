@@ -90,14 +90,12 @@ buttons = [
             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/EmixinaSupport"
         ),
     ],
-    [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/EmixinaUpdates"),
-        InlineKeyboardButton(
-            text="ᴘᴀᴠᴀɴ", url=f"https://t.me/crepan"
-        ),
-    ],
+    
     [
         InlineKeyboardButton(text="❔ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
+    ],
+    [
+        InlineKeyboardButton(text="❔ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", url="t.me/crepan"),
     ],
 ]
 

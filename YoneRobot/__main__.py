@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hᴇʏ, ɪ ᴀᴍ Eᴍɪxɪɴᴀ 👰
 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ sᴜᴘᴇʀғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ : [𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻](https://t.me/crepan)..!
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ : [𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻](https://telegra.ph/file/a2640c723c322d7c93342.jpg)..!
 """
 
 buttons = [
@@ -104,7 +104,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` Eᴍɪxɪɴᴀ. 
+`Hɪ, ɪ'ᴍ` Eᴍɪxɪɴᴀ. 
 `ᴛʜᴇ ʙᴇꜱᴛ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ. ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ꜱᴇᴄᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ʟᴇᴀʀɴ ᴛᴏ ᴜꜱᴇ ᴍᴇ.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
